@@ -1,7 +1,6 @@
 qodo
 zencoder
 zenflow
-backend/node_modules
 
 # Logs
 logs
@@ -27,3 +26,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
